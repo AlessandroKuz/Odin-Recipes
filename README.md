@@ -10,6 +10,7 @@ This repo is based of the first HTML project from "The Odin Project", but I'm pl
     - [ ] Add Russian language
     - [ ] Add German language
 - [ ] Improvements
+    - [ ] Dark-Light Theme switch
     - [ ] Infrastructure
         - [ ] Change repo name to better match your website
         - [ ] Use templates
